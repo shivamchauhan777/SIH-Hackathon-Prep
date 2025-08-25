@@ -72,3 +72,4 @@
 | 98 | Government of Rajasthan | ERP-based Integrated Student Management system | Software | SIH25103 | 0 | Smart Automation |
 | 99 | Government of Rajasthan | Language Agnostic Chatbot | Software | SIH25104 | 0 | Smart Education |
 | 100 | AICTE | Develop computer programs (in any language, preferably Python) to identify the design principles behind the Kolam designs and recreate the kolams. | Software | SIH12507 | 0 | Heritage & Culture |
+| 101 | Ministry of Tribal Affairs(MoTA) | Development of AI-powered FRA Atlas and WebGIS-based Decision Support System (DSS) for Integrated Monitoring of Forest Rights Act (FRA) Implementation. (States to be concentrated: Madhya Pradesh, Tripura , Odisha, Telangana) | Software | SIH12508 | 0 | Miscellaneous |
