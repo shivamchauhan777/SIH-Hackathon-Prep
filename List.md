@@ -1,223 +1,64 @@
-1. **Disaster Management includes activities related to risk, mitigation and planning before a disaster occurs, and after the occurrence of a disaster, all the activities related to management, relief, and rehabilitation.**  
-   *Category: Software*  
-   *Description: Disaster Management includes activities related to risk, mitigation and planning before a disaster occurs, and after the occurrence of a disaster, all the activities related to management, relief, and rehabilitation.*
+Problem statement 2025
 
-2. **Develop products/solutions for cyber security, digital forensics, and anti-phishing techniques.**  
-   *Category: Software*  
-   *Description: Develop products/solutions for cyber security, digital forensics, and anti-phishing techniques to enhance digital safety and resilience.*
-
-3. **Develop disaster management and early warning systems using software.**  
-   *Category: Software*  
-   *Description: Develop disaster management and early warning systems using software to predict, detect, and respond to natural and man-made disasters efficiently.*
-
-4. **Develop AI-based software for Smart Agriculture.**  
-   *Category: Software*  
-   *Description: Develop AI-based software for Smart Agriculture to increase crop yield, optimize resource utilization, and support farmers with real-time insights.*
-
-5. **Develop solutions for Smart Education using software.**  
-   *Category: Software*  
-   *Description: Develop solutions for Smart Education using software to improve teaching and learning experiences, automate administrative tasks, and enhance student engagement.*
-
-6. **Develop Health Diagnostics & Monitoring solutions using software.**  
-   *Category: Software*  
-   *Description: Develop Health Diagnostics & Monitoring solutions using software to facilitate early detection of diseases, track patient health, and improve healthcare outcomes.*
-
-7. **Develop software for Smart Automation in industrial and home environments.**  
-   *Category: Software*  
-   *Description: Develop software for Smart Automation in industrial and home environments to automate routine tasks, improve efficiency, and enhance user convenience.*
-
-8. **Develop Medical/BioTech solutions (software-based) for healthcare.**  
-   *Category: Software*  
-   *Description: Develop Medical/BioTech solutions (software-based) for healthcare to assist in diagnosis, treatment planning, and patient management.*
-
-9. **Develop software for Disaster Management in urban and rural areas.**  
-   *Category: Software*  
-   *Description: Develop software for Disaster Management in urban and rural areas to support preparedness, response, and recovery operations.*
-
-10. **Develop software for Clean & Green Technology applications.**  
-    *Category: Software*  
-    *Description: Develop software for Clean & Green Technology applications to promote sustainable practices, reduce environmental impact, and support renewable energy initiatives.*
-
-11. **Develop software for Smart Automation in logistics and supply chain.**  
-    *Category: Software*  
-    *Description: Develop software for Smart Automation in logistics and supply chain to optimize operations, track shipments, and manage inventory effectively.*
-
-12. **Develop software for Agriculture, FoodTech & Rural Development.**  
-    *Category: Software*  
-    *Description: Develop software for Agriculture, FoodTech & Rural Development to enhance productivity, improve food safety, and empower rural communities.*
-
-13. **Develop software for Smart Vehicles and Transportation.**  
-    *Category: Software*  
-    *Description: Develop software for Smart Vehicles and Transportation to improve mobility, enhance safety, and support intelligent transport systems.*
-
-14. **Develop software for Smart Automation in sports.**  
-    *Category: Software*  
-    *Description: Develop software for Smart Automation in sports to assist in training, performance analysis, and event management.*
-
-15. **Develop Medical & Biotech software solutions for diagnostics and treatment.**  
-    *Category: Software*  
-    *Description: Develop Medical & Biotech software solutions for diagnostics and treatment to facilitate accurate disease detection and personalized care.*
-
-16. **Develop software solutions for Blockchain & Cybersecurity.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Blockchain & Cybersecurity to ensure secure transactions, data integrity, and privacy protection.*
-
-17. **Develop software solutions for Smart Automation in defense and aerospace.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in defense and aerospace to enhance mission planning, surveillance, and operational efficiency.*
-
-18. **Develop solutions for Smart Automation in financial services using software.**  
-    *Category: Software*  
-    *Description: Develop solutions for Smart Automation in financial services using software to streamline processes, reduce fraud, and improve customer experience.*
-
-19. **Develop software for Smart Automation in energy and water management.**  
-    *Category: Software*  
-    *Description: Develop software for Smart Automation in energy and water management to optimize resource usage and support sustainable development.*
-
-20. **Develop software solutions for Smart Automation in consumer electronics.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in consumer electronics to provide intelligent features, enhance connectivity, and improve user experience.*
-
-21. **Develop software solutions for Smart Automation in textiles and fashion.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in textiles and fashion to streamline design, production, and retail operations.*
-
-22. **Develop software solutions for Smart Automation in legal and justice.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in legal and justice to improve case management, automate document processing, and support legal research.*
-
-23. **Develop software solutions for Smart Automation in media and entertainment.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in media and entertainment to automate content creation, distribution, and audience engagement.*
-
-24. **Develop software solutions for Smart Automation in mining and metallurgy.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in mining and metallurgy to monitor operations, improve safety, and optimize resource extraction.*
-
-25. **Develop software solutions for Smart Automation in housing and construction.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in housing and construction to support project management, resource allocation, and smart building systems.*
-
-26. **Develop software solutions for Smart Automation in governance and policy.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in governance and policy to enhance transparency, improve decision-making, and automate administrative processes.*
-
-27. **Develop software solutions for Smart Automation in tourism and hospitality.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in tourism and hospitality to personalize guest experiences, automate bookings, and improve service efficiency.*
-
-28. **Develop software solutions for Smart Automation in urban development and planning.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in urban development and planning to support smart cities initiatives and efficient resource management.*
-
-29. **Develop software solutions for Smart Automation in social welfare and empowerment.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in social welfare and empowerment to streamline service delivery and improve beneficiary tracking.*
-
-30. **Develop software solutions for Smart Automation in disaster management.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in disaster management to enhance preparedness, response, and recovery capabilities.*
-
-31. **Develop software solutions for Smart Automation in education and skill development.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in education and skill development to facilitate learning, assessment, and certification.*
-
-32. **Develop software solutions for Smart Automation in science and technology.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in science and technology to accelerate research, automate experiments, and foster innovation.*
-
-33. **Develop software solutions for Smart Automation in youth affairs and sports.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in youth affairs and sports to engage youth, monitor programs, and enhance participation.*
-
-34. **Develop software solutions for Smart Automation in women and child development.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in women and child development to track beneficiaries and improve service delivery.*
-
-35. **Develop software solutions for Smart Automation in minority affairs.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in minority affairs to ensure inclusion and monitor welfare schemes.*
-
-36. **Develop software solutions for Smart Automation in tribal affairs.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in tribal affairs to support welfare programs and improve outreach.*
-
-37. **Develop software solutions for Smart Automation in animal husbandry, dairying, and fisheries.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in animal husbandry, dairying, and fisheries to improve productivity and ensure sustainable practices.*
-
-38. **Develop software solutions for Smart Automation in environment, forest, and climate change.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in environment, forest, and climate change to monitor resources and support conservation efforts.*
-
-39. **Develop software solutions for Smart Automation in commerce and industry.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in commerce and industry to enhance competitiveness and streamline business operations.*
-
-40. **Develop software solutions for Smart Automation in civil aviation.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in civil aviation to improve safety, scheduling, and passenger experience.*
-
-41. **Develop software solutions for Smart Automation in information technology.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in information technology to enhance system reliability and automate IT operations.*
-
-42. **Develop software solutions for Smart Automation in heavy industries and public enterprises.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in heavy industries and public enterprises to optimize production and resource management.*
-
-43. **Develop software solutions for Smart Automation in micro, small, and medium enterprises.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in micro, small, and medium enterprises to support growth and improve competitiveness.*
-
-44. **Develop software solutions for Smart Automation in parliamentary affairs.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in parliamentary affairs to facilitate legislative processes and record management.*
-
-45. **Develop software solutions for Smart Automation in ports, shipping, and waterways.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in ports, shipping, and waterways to enhance logistics, scheduling, and safety.*
-
-46. **Develop software solutions for Smart Automation in power and renewable energy.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in power and renewable energy to optimize generation, distribution, and consumption.*
-
-47. **Develop software solutions for Smart Automation in public distribution and consumer affairs.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in public distribution and consumer affairs to ensure transparency and efficient delivery.*
-
-48. **Develop software solutions for Smart Automation in science and industrial research.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in science and industrial research to automate experiments and data analysis.*
-
-49. **Develop software solutions for Smart Automation in shipping and waterways.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in shipping and waterways to enhance scheduling and cargo management.*
-
-50. **Develop software solutions for Smart Automation in skill development and entrepreneurship.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in skill development and entrepreneurship to facilitate training, assessment, and job matching.*
-
-51. **Develop software solutions for Smart Automation in space and atomic energy.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in space and atomic energy to support mission planning and resource management.*
-
-52. **Develop software solutions for Smart Automation in steel and heavy engineering.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in steel and heavy engineering to monitor production and optimize processes.*
-
-53. **Develop software solutions for Smart Automation in textiles and handlooms.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in textiles and handlooms to support artisans and improve quality control.*
-
-54. **Develop software solutions for Smart Automation in tribal affairs and development.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in tribal affairs and development to monitor welfare schemes and ensure inclusion.*
-
-55. **Develop software solutions for Smart Automation in water resources and river development.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in water resources and river development to monitor usage and support conservation.*
-
-56. **Develop software solutions for Smart Automation in shipping and waterways.**  
-    *Category: Software*  
-    *Description: Develop software solutions for Smart Automation in shipping and waterways to enhance efficiency, safety, and logistics in maritime operations.*
+| S.No. | Organization | Problem Statement Title | Category | PS Number | Submitted Idea(s) Count | Theme |
+|-------|--------------|------------------------|----------|-----------|------------------------|-------|
+| 1 | Ministry of Development of North Eastern Region | Smart Community Health Monitoring and Early Warning System for Water-Borne Diseases in Rural Northeast India | Software | SIH25001 | 0 | MedTech / BioTech / HealthTech |
+| 2 | Ministry of Development of North Eastern Region | Smart Tourist Safety Monitoring & Incident Response System using Al, Geo-Fencing, and Blockchain-based Digital ID | Software | SIH25002 | 0 | Travel & Tourism |
+| 4 | Ministry of Fisheries, Animal Husbandry & Dairying | lmage based breed recognition for cattle and buffaloes of India | Software | SIH25004 | 0 | Agriculture, FoodTech & Rural Development |
+| 5 | Ministry of Fisheries, Animal Husbandry & Dairying | lmage based Animal Type Classification for cattle and buffaloes | Software | SIH25005 | 0 | Agriculture, FoodTech & Rural Development |
+| 6 | Ministry of Fisheries, Animal Husbandry & Dairying | Development of a Digital Farm Management Portal for lmplementing Biosecurity ileasures in Pig and Poultry Farms | Software | SIH25006 | 0 | Agriculture, FoodTech & Rural Development |
+| 7 | Ministry of Fisheries, Animal Husbandry & Dairying | Development of a Digital Farm Management Portal for Monitoring aximum Residue Limits (MRL) and Antimicrobial Usage (AMU) in Livestock | Software | SIH25007 | 0 | Agriculture, FoodTech & Rural Development |
+| 8 | Government of Punjab | Disaster Preparedness and Response Education System for Schools and Colleges | Software | SIH25008 | 0 | Disaster Management |
+| 9 | Government of Punjab | Gamified Environmental Education Platform for Schools and Colleges | Software | SIH25009 | 0 | Smart Education |
+| 10 | Government of Punjab | Smart Crop Advisory System forSmall and Marginal Farmers | Software | SIH25010 | 0 | Agriculture, FoodTech & Rural Development |
+| 11 | Government of Punjab | Smart Curriculum Activity & Attendance App | Software | SIH25011 | 0 | Smart Education |
+| 12 | Government of Punjab | Automated Attendance System for Rural Schools | Software | SIH25012 | 0 | Smart Education |
+| 13 | Government of Punjab | Real-Time Public Transport Tracking for Small Cities | Software | SIH25013 | 0 | Transportation & Logistics |
+| 16 | Government of Punjab | Automated Student Attendance Monitoring and Analytics System for Colleges | Software | SIH25016 | 0 | Smart Education |
+| 17 | Government of Punjab | Digital Platform for Centralized Alumni Data Management and Engagement | Software | SIH25017 | 0 | Smart Education |
+| 18 | Government of Punjab | Telemedicine Access for Rural Healthcare in Nabha | Software | SIH25018 | 0 | MedTech / BioTech / HealthTech |
+| 19 | Government of Punjab | Digital Learning Platform for Rural School Students in Nabha | Software | SIH25019 | 0 | Smart Education |
+| 22 | Ministry of Railways | Maximizing Section Throughput Using Al-Powered Precise Train Traffic Control | Software | SIH25022 | 0 | Transportation & Logistics |
+| 23 | Ministry of Ayush | AyurSutra- Panchakarma Patient Management and therapy scheduling Software | Software | SIH25023 | 0 | MedTech / BioTech / HealthTech |
+| 24 | Ministry of Ayush | Comprehensive Cloud-Based Practice Management & Nutrient Analysis Software for Ayurvedic Dietitians, Tailored for Ayurveda-Focused Diet Plans | Software | SIH25024 | 0 | MedTech / BioTech / HealthTech |
+| 26 | Ministry of Ayush | Develop API code to integrate NAMASTE and or the International Classification of Diseases (ICD-11) via the Traditional Medicine Module 2 (TM2) into existing EMR systems that comply with Electronic Health Record (EHR) Standards for India. | Software | SIH25026 | 0 | MedTech / BioTech / HealthTech |
+| 27 | Ministry of Ayush | Develop a blockchain-based system for botanical traceability of Ayurvedic herbs, including geo-tagging from the point of collection (farmers/wild collectors) to the final Ayurvedic formulation label. | Software | SIH25027 | 0 | Blockchain & Cybersecurity |
+| 28 | Government of Jharkhand | Smart Classroom & Timetable Scheduler | Software | SIH25028 | 0 | Smart Education |
+| 29 | Government of Jharkhand | Authenticity Validator for Academia | Software | SIH25029 | 0 | Smart Education |
+| 30 | Government of Jharkhand | Al-Based Crop Recommendation for Farmers | Software | SIH25030 | 0 | Agriculture, FoodTech & Rural Development |
+| 31 | Government of Jharkhand | Crowdsourced Civic lssue Reporting and Resolution System | Software | SIH25031 | 0 | Clean & Green Technology |
+| 32 | Government of Jharkhand | Development of a Smart Digital Platform to Promote Eco & Cultural Tourism in Jharkhand | Software | SIH25032 | 0 | Travel & Tourism |
+| 33 | Ministry of Corporate Affairs | Al-Based Smart Allocation Engine for PM Internship Scheme | Software | SIH25033 | 0 | Smart Automation |
+| 34 | Ministry of Corporate Affairs | Al-Based Internship Recommendation Engine for PM Internship Scheme | Software | SIH25034 | 0 | Smart Education |
+| 35 | Ministry of Corporate Affairs | Sentiment analysis of comments received through E-consultation module | Software | SIH25035 | 0 | Miscellaneous |
+| 38 | Ministry of Earth Sciences (MoES) | Blockchain-Based Blue Carbon Registry and MRV System | Software | SIH25038 | 0 | Clean & Green Technology |
+| 39 | Ministry of Earth Sciences (MoES) | Integrated Platform for Crowdsourced Ocean Hazard Reporting and Social Media Analytics | Software | SIH25039 | 0 | Disaster Management |
+| 40 | Ministry of Earth Sciences (MoES) | FloatChat - AI-Powered Conversational Interface for ARGO Ocean Data Discovery and Visualization | Software | SIH25040 | 0 | Miscellaneous |
+| 41 | Ministry of Earth Sciences (MoES) | AI-Driven Unified Data Platform for Oceanographic, Fisheries, and Molecular Biodiversity Insights | Software | SIH25041 | 0 | Renewable / Sustainable Energy |
+| 42 | Ministry of Earth Sciences (MoES) | Identifying Taxonomy and Assessing Biodiversity from eDNA Datasets | Software | SIH25042 | 0 | Miscellaneous |
+| 44 | Government of Odisha | Al-Powered Crop Yield Prediction and Optimization | Software | SIH25044 | 0 | Agriculture, FoodTech & Rural Development |
+| 45 | Government of Odisha | Blockchain-Based Supply Chain Transparency for Agricultural Produce | Software | SIH25045 | 0 | Agriculture, FoodTech & Rural Development |
+| 48 | Government of Odisha | Gamified Learning Platform for Rural Education | Software | SIH25048 | 0 | Smart Education |
+| 49 | Government of Odisha | Al-Driven Public Health Chatbot for Disease Awareness | Software | SIH25049 | 0 | MedTech / BioTech / HealthTech |
+| 50 | Government of Odisha | Smart Traffic Management Systern for Urban Congestion | Software | SIH25050 | 0 | Transportation & Logistics |
+| 52 | Government of Odisha | AR-Based Cultural Heritage Preservation Platform | Software | SIH25052 | 0 | Heritage & Culture |
+| 59 | Ministry of Social Justice & Empowerment (MoSJE) | Enhancing Student Awareness on difference between Aadhaar linked and Direct Beneficiary Transfer(DBT) enabled Aadhaar seeded bank account. | Software | SIH25059 | 0 | Miscellaneous |
+| 60 | Ministry of Social Justice & Empowerment (MoSJE) | Real life solutions for Waste Management. | Software | SIH25060 | 0 | Clean & Green Technology |
+| 61 | Government of Sikkim | Digitize and Showcase Monasteries of Sikkim for Tourism and Cultural Preservation | Software | SIH25061 | 0 | Travel & Tourism |
+| 65 | Ministry of Jal Shakti | Designing and development of an application for on spot assessment of Roof Top Rain water harvesting and artificial recharge potential and size of the RTRWH and AR. | Software | SIH25065 | 0 | Smart Automation |
+| 66 | Ministry of Jal Shakti | Development of an Al-driven ChatBOT for INGRES as a virtuall assistant | Software | SIH25066 | 0 | Smart Automation |
+| 67 | Ministry of Jal Shakti | Proposal for Design and development of application or Heavy Metal Pollution indices | Software | SIH25067 | 0 | Miscellaneous |
+| 68 | Ministry of Jal Shakti | Real time Groundwater resource evaluation using DWLR data | Software | SIH25068 | 0 | Miscellaneous |
+| 69 | Ministry of Mines | Al-Driven Life Cycle Assessment (LCA) Tool for Advancing Circulanty and Sustainability in Metallurgy and Mining | Software | SIH25069 | 0 | Miscellaneous |
+| 70 | Ministry of Mines | Secure Data Wiping for Trustworthy IT Asset Recycling | Software | SIH25070 | 0 | Miscellaneous |
+| 71 | Ministry of Mines | Al-Based Rockfall Prediction and Alert System for Open-Pit Mines | Software | SIH25071 | 0 | Disaster Management |
+| 73 | Ministry of Youth Affairs and Sports | Al-Powered Mobile Platform for Democratizing Sports Talent Assessment | Software | SIH25073 | 0 | Fitness & Sports |
+| 74 | Government of Kerala | AI-Powered Personal Farming Assistant for Kerala Farmers | Software | SIH25074 | 0 | Agriculture, FoodTech & Rural Development |
+| 75 | Government of Kerala | Gamified Platform to Promote Sustainable Farming Practices | Software | SIH25075 | 0 | Agriculture, FoodTech & Rural Development |
+| 76 | Government of Kerala | AI-Based Farmer Query Support and Advisory System | Software | SIH25076 | 0 | Agriculture, FoodTech & Rural Development |
+| 78 | Government of Kerala | Software other than a circuit breaker that can be used to detect and turn off LT lines when the line breaks | Software | SIH25079 | 0 | Disaster Management |
+| 79 | Government of Kerala | Document Overload at Kochi Metro Rail Limited (KMRL)-An automated solution | Software | SIH25080 | 0 | Smart Automation |
+| 80 | Government of Kerala | AI-Driven Train Induction Planning & Scheduling for Kochi Metro Rail Limited (KMRL) | Software | SIH25081 | 0 | Smart Automation |
+| 81 | Government of Kerala | Development of a travel related software app that can be installed on mobile phones that could capture trip related information | Software | SIH25082 | 0 | Travel & Tourism |
+| 82 | Government of Kerala | Digital Health Record Management System for migrant workers in Kerala aligned with sustainable development goals. | Software | SIH25083 | 0 | MedTech / BioTech / HealthTech |
+| 86 | Government of Jammu and Kashmir | AI-Based Timetable Generation System
