@@ -1,5 +1,3 @@
-Problem statement 2025
-
 | S.No. | Organization | Problem Statement Title | Category | PS Number | Submitted Idea(s) Count | Theme |
 |-------|--------------|------------------------|----------|-----------|------------------------|-------|
 | 1 | Ministry of Development of North Eastern Region | Smart Community Health Monitoring and Early Warning System for Water-Borne Diseases in Rural Northeast India | Software | SIH25001 | 0 | MedTech / BioTech / HealthTech |
@@ -61,4 +59,16 @@ Problem statement 2025
 | 80 | Government of Kerala | AI-Driven Train Induction Planning & Scheduling for Kochi Metro Rail Limited (KMRL) | Software | SIH25081 | 0 | Smart Automation |
 | 81 | Government of Kerala | Development of a travel related software app that can be installed on mobile phones that could capture trip related information | Software | SIH25082 | 0 | Travel & Tourism |
 | 82 | Government of Kerala | Digital Health Record Management System for migrant workers in Kerala aligned with sustainable development goals. | Software | SIH25083 | 0 | MedTech / BioTech / HealthTech |
-| 86 | Government of Jammu and Kashmir | AI-Based Timetable Generation System
+| 86 | Government of Jammu and Kashmir | AI-Based Timetable Generation System aligned with NEP 2020 for Multidisciplinary Education Structures | Software | SIH25091 | 0 | Smart Automation |
+| 87 | Government of Jammu and Kashmir | Development of a Digital Mental Health and Psychological Support System for Students in Higher Education | Software | SIH25092 | 0 | MedTech / BioTech / HealthTech |
+| 88 | Government of Jammu and Kashmir | Centralised Digital Platform for Comprehensive student activity record in HEIs | Software | SIH25093 | 0 | Smart Education |
+| 89 | Government of Jammu and Kashmir | One-Stop Personalized Career & Education Advisor | Software | SIH25094 | 0 | Smart Education |
+| 92 | Autodesk | Research and develop a design on autonomous small precision focused machine for planting crops or weeding. | Software | SIH25097 | 0 | Smart Education |
+| 93 | Autodesk | Students are tasked with designing a 4-story commercial office building using Revit Architecture and Revit Structure , ensuring effective integration between architectural and structural models in a BIM environment.(The size of the plot can be assumed by the students, all the dimensions wherever necessary can be assumed by students in mm units.) | Software | SIH25098 | 0 | Smart Education |
+| 94 | MathWorks India Pvt. Ltd. | AI-powered monitoring of crop health, soil condition, and pest risks using multispectral/hyperspectral imaging and sensor data. | Software | SIH25099 | 0 | Smart Education |
+| 95 | MathWorks India Pvt. Ltd. | Accelerating High-Fidelity Road Network Modeling for Indian Traffic Simulations. | Software | SIH25100 | 0 | Smart Education |
+| 96 | Government of Rajasthan | Remote classroom for rural colleges | Software | SIH25101 | 0 | Smart Education |
+| 97 | Government of Rajasthan | AI-based drop-out prediction and counseling system | Software | SIH25102 | 0 | Smart Automation |
+| 98 | Government of Rajasthan | ERP-based Integrated Student Management system | Software | SIH25103 | 0 | Smart Automation |
+| 99 | Government of Rajasthan | Language Agnostic Chatbot | Software | SIH25104 | 0 | Smart Education |
+| 100 | AICTE | Develop computer programs (in any language, preferably Python) to identify the design principles behind the Kolam designs and recreate the kolams. | Software | SIH12507 | 0 | Heritage & Culture |
