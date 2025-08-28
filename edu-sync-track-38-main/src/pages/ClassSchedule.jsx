@@ -4,6 +4,11 @@ import { useAuth } from "@/components/AuthContext"; // ✅ global state
 function ClassSchedule() {
   const { classes } = useAuth(); // ✅ get all scheduled classes
 
+  const schedule = [
+    {
+      
+    }
+  ]
   return (
     <div className="min-h-screen bg-gradient-to-r from-indigo-100 to-blue-100 p-8">
       <h1 className="text-3xl font-bold text-center text-gray-800 mb-8">

@@ -28,8 +28,8 @@ const navigationItems = [
   { title: "Students", url: "/students", icon: Users },
   { title: "Schedule Class", url: "/schedule", icon: Calendar },
   { title: "QR Attendance", url: "/qr-attendance", icon: QrCode },
-  { title: "Analytics", url: "/analytics", icon: BarChart3 },
-  { title: "Settings", url: "/settings", icon: Settings },
+  // { title: "Analytics", url: "/analytics", icon: BarChart3 },
+  // { title: "Settings", url: "/settings", icon: Settings },
 ]
 
 export function AppSidebar() {

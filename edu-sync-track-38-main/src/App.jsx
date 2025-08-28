@@ -6,11 +6,12 @@ import { Toaster as Sonner } from "@/components/ui/sonner"
 import TeacherLogin from "./pages/TeacherLogin"
 import { Layout } from "@/components/Layout"
 import Index from "./pages/Index"
-import ClassSchedule from "./pages/classSchedule"
+import ClassSchedule from "./pages/ClassSchedule";
 import ClassSchedulingForm from "./pages/ClassSchedulingForm"
 import NotFound from "./pages/NotFound"
 import { AuthProvider, useAuth } from "./components/AuthContext"
 import Student from "./pages/Students"
+// import AnalyticsCharts from "./pages/AnalyticsChart";
 
 const queryClient = new QueryClient()
 
@@ -41,6 +42,7 @@ const App = () => (
               <Route path="/schedule" element={<ClassSchedulingForm />} />
               <Route path="*" element={<NotFound />} />
               <Route path="/students" element={<Student />} />
+              {/* <Route path="/analytics" element={<AnalyticsChart />} /> */}
               
             </Route>
           </Routes>
