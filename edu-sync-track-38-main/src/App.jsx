@@ -10,6 +10,7 @@ import ClassSchedule from "./pages/classSchedule"
 import ClassSchedulingForm from "./pages/ClassSchedulingForm"
 import NotFound from "./pages/NotFound"
 import { AuthProvider, useAuth } from "./components/AuthContext"
+import Student from "./pages/Students"
 
 const queryClient = new QueryClient()
 
@@ -39,6 +40,8 @@ const App = () => (
               <Route path="/classes" element={<ClassSchedule />} />
               <Route path="/schedule" element={<ClassSchedulingForm />} />
               <Route path="*" element={<NotFound />} />
+              <Route path="/students" element={<Student />} />
+              
             </Route>
           </Routes>
         </BrowserRouter>
