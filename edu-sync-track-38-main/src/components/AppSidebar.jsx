@@ -26,6 +26,7 @@ const navigationItems = [
   { title: "Dashboard", url: "/", icon: LayoutDashboard },
   { title: "Classes", url: "/classes", icon: Calendar },
   { title: "Students", url: "/students", icon: Users },
+  { title: "Schedule Class", url: "/schedule", icon: Calendar },
   { title: "QR Attendance", url: "/qr-attendance", icon: QrCode },
   { title: "Analytics", url: "/analytics", icon: BarChart3 },
   { title: "Settings", url: "/settings", icon: Settings },
@@ -67,6 +68,7 @@ export function AppSidebar() {
               {navigationItems.map((item) => (
                 <SidebarMenuItem key={item.title}>
                   <SidebarMenuButton asChild>
+                    
                     <NavLink 
                       to={item.url} 
                       end 

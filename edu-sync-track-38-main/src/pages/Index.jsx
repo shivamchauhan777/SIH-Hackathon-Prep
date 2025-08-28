@@ -17,14 +17,11 @@ const Index = () => {
           </p>
         </div>
         <div className="flex gap-3">
-          <Button className="bg-primary hover:bg-primary-light">
-            <QrCode className="h-4 w-4 mr-2" />
-            Generate QR Code
-          </Button>
-          <Button variant="outline">
+          
+          {/* <Button variant="outline">
             <Calendar className="h-4 w-4 mr-2" />
             Schedule Class
-          </Button>
+          </Button> */}
         </div>
       </div>
 
