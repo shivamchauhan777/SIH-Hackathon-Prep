@@ -36,4 +36,4 @@ const QRScanner = () => {
   );
 };
 
-export default QRScanner;
+export { Toaster } from "sonner";
