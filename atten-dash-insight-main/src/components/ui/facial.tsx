@@ -1,9 +1,10 @@
 import React from "react";
-import { useTheme } from "next-themes";
 import { Toaster as Sonner, toast } from "sonner";
 
+// Remove next-themes; use a prop or default theme
 const FacialAttendanceToaster = (props) => {
-  const { theme = "system" } = useTheme();
+  // Default theme to system, or get from props
+  const theme = props.theme || "system";
 
   return (
     <Sonner

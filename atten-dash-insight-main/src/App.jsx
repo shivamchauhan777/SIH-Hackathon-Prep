@@ -1,20 +1,17 @@
-import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
-import { FacialAttendanceToaster } from "./components/ui/facial"; // Add this line
+import { FacialAttendanceToaster } from "./components/ui/facial"; // Not needed if you use Sonner directly
 
 const queryClient = new QueryClient();
 
 const App = () => (
   <QueryClientProvider client={queryClient}>
     <TooltipProvider>
-      <Toaster />
-      <Sonner />
-      <FacialAttendanceToaster /> {/* Add this line */}
+      <Sonner theme="system" />
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Index />} />
