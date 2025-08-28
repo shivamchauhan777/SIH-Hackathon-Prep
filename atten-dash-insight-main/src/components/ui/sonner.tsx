@@ -1,29 +1,39 @@
-import { useTheme } from "next-themes"
-import { Toaster as Sonner, toast } from "sonner"
+import { useState } from "react";
+import QrScanner from "react-qr-scanner";
+import { toast } from "sonner"; // adjust if your export path is different
 
-type ToasterProps = React.ComponentProps<typeof Sonner>
+const QRScanner = () => {
+  const [result, setResult] = useState(null);
 
-const Toaster = ({ ...props }: ToasterProps) => {
-  const { theme = "system" } = useTheme()
+  const handleScan = (data) => {
+    if (data && data.text && data.text !== result) {
+      setResult(data.text);
+      // TODO: Optionally, send data.text to your backend to mark attendance here.
+      toast.success("Attendance marked!");
+    }
+  };
+
+  const handleError = (err) => {
+    toast.error("Scanning failed. Please try again.");
+    console.error(err);
+  };
 
   return (
-    <Sonner
-      theme={theme as ToasterProps["theme"]}
-      className="toaster group"
-      toastOptions={{
-        classNames: {
-          toast:
-            "group toast group-[.toaster]:bg-background group-[.toaster]:text-foreground group-[.toaster]:border-border group-[.toaster]:shadow-lg",
-          description: "group-[.toast]:text-muted-foreground",
-          actionButton:
-            "group-[.toast]:bg-primary group-[.toast]:text-primary-foreground",
-          cancelButton:
-            "group-[.toast]:bg-muted group-[.toast]:text-muted-foreground",
-        },
-      }}
-      {...props}
-    />
-  )
-}
+    <div>
+      <QrScanner
+        delay={300}
+        onError={handleError}
+        onScan={handleScan}
+        style={{ width: "100%" }}
+      />
+      <p>Scan your QR code to mark attendance</p>
+      {result && (
+        <div style={{ marginTop: 16, color: "green" }}>
+          Last scanned: <b>{result}</b>
+        </div>
+      )}
+    </div>
+  );
+};
 
-export { Toaster, toast }
+export default QRScanner;
