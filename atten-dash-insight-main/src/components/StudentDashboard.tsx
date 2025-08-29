@@ -5,6 +5,7 @@ import { Button } from '@/components/ui/button';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import { Progress } from '@/components/ui/progress';
 import { Calendar, Clock, TrendingUp, Users, Bell, QrCode } from 'lucide-react';
+import { NavLink } from 'react-router-dom';
 
 const StudentDashboard = () => {
   // Mock data - in real app this would come from API
@@ -65,10 +66,10 @@ const StudentDashboard = () => {
               </div>
             </div>
             <div className="flex items-center gap-3">
-              <Button variant="outline" size="sm" className="gap-2">
+              <NavLink to={'/scan'}><Button variant="outline" size="sm" className="gap-2">
                 <QrCode className="h-4 w-4" />
                 Scan QR
-              </Button>
+              </Button></NavLink>
               <Button variant="outline" size="sm" className="gap-2">
                 <Bell className="h-4 w-4" />
               </Button>

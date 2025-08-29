@@ -66,14 +66,14 @@ const Index = () => {
 
       {/* Quick Actions */}
       <Card>
-        <CardHeader>
-          <CardTitle className="text-foreground">Quick Actions</CardTitle>
+        {/* <CardHeader> */}
+          {/* <CardTitle className="text-foreground">Quick Actions</CardTitle>
           <CardDescription className="text-muted-foreground">
             Common tasks and shortcuts
           </CardDescription>
         </CardHeader>
-        <CardContent>
-          <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-4">
+        <CardContent> */}
+          {/* <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-4">
             <Button variant="outline" className="h-auto p-4 flex-col gap-2">
               <QrCode className="h-6 w-6" />
               <span className="text-sm">Start QR Attendance</span>
@@ -90,8 +90,8 @@ const Index = () => {
               <AlertTriangle className="h-6 w-6" />
               <span className="text-sm">At-Risk Report</span>
             </Button>
-          </div>
-        </CardContent>
+          </div> */}
+        {/* </CardContent> */}
       </Card>
     </div>
   );
