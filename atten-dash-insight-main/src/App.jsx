@@ -14,7 +14,7 @@ const App = () => (
     <TooltipProvider>
       <Sonner theme="system" />
       <BrowserRouter>
-        <Routes>
+        <Routes>3
           <Route path="/" element={<Index />} />
           <Route path="*" element={<NotFound />} />
           <Route path="/scan" element={<QRScanner />} />
